@@ -1,0 +1,24 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.carolinacon.org/superjp.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/gilajp.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/pakong86.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/viral88.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/clan4d.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/elang212.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/viral4d.html/sitemap.xml
+Sitemap: https://ftp.carolinacon.org/playground88.html/sitemap.xml
